@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/calvin-bochynski-ng](https://github.com/calvin-bochynski-ng)
 
-- 📫 How to reach me **calvinng1993@gmail.com** or Head to my [website]([https://github.com/calvin-bochynski-ng/portfolio](https://calvin.bochynski-ng.com/))! 
+- 📫 How to reach me **calvinng1993@gmail.com** or Head to my [website](https://calvin.bochynski-ng.com/)! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
