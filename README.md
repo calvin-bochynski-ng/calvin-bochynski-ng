@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Calvin Bochynski-Ng</h1>
 <h3 align="center">A keen full-stack developer to make a difference.</h3>
 
-- 🔭 I’m currently working on [capstone_mapplar](https://github.com/calvin-bochynski-ng/capstone-mapplar)
+- 🔭 I’m currently working on [my Portfolio](https://github.com/calvin-bochynski-ng/portfolio)
 
-- 🌱 I’m currently learning **bootcamp course by BrainStation - Full-Stack**
+- 🌱 I’m currently looking for opportunities in **Web Development and Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/calvin-bochynski-ng](https://github.com/calvin-bochynski-ng)
 
-- 📫 How to reach me **calvinng1993@gmail.com**
+- 📫 How to reach me **calvinng1993@gmail.com** or Head to my [website]([https://github.com/calvin-bochynski-ng/portfolio](https://calvin.bochynski-ng.com/))! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
