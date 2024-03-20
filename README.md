@@ -26,8 +26,6 @@
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" height="50"/></a>
 </p>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F338592%2Fnetlify&psig=AOvVaw3U8eEVu9yPmVwHXG_hHu8T&ust=1711035350616000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDS4MWVg4UDFQAAAAAdAAAAABAe
-
 <h4>Backend</h4>
 <p align="left">
 	<a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="node.js" height="50"/></a>
@@ -51,7 +49,9 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F3
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+
+ 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/></a>
 	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" height="50" /></a>
 	<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
