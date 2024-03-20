@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin Bochynski-Ng</h1>
-<h3 align="center">A keen full-stack developer to make a difference.</h3>
-
-- 🔭 I’m currently working on [my Portfolio](https://github.com/calvin-bochynski-ng/portfolio)
+<h3 align="center">A keen Web Developer to make a difference.</h3>
 
 - 🌱 I’m currently looking for opportunities in **Web Development and Front-End Development**
 
@@ -21,10 +19,11 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="html5" height="45"/></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" height="45"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50"/></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" height="50" /></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" height="50"/></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.png" alt="mui" height="50"/></a>
 </p>
 
 <h4>Backend</h4>
@@ -38,7 +37,7 @@
 
 <h4>Other</h4>
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://tkssharma.com/static/02dfdac16100b40337b156a95ab4b1fe/56e34/nextjs.png" alt="react" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://tkssharma.com/static/02dfdac16100b40337b156a95ab4b1fe/56e34/nextjs.png" alt="next" height="50"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -53,10 +52,9 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/></a>
-
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="50"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-bochynski-ng&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-bochynski-ng&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
