@@ -19,11 +19,11 @@
 <h4>Frontend</h4>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="html5" height="45"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50"/></a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/netlify-icon.png" alt="netlify" height="50"/></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fnetlifystatus&psig=AOvVaw3U8eEVu9yPmVwHXG_hHu8T&ust=1711035350616000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDS4MWVg4UDFQAAAAAdAAAAABAI" alt="netlify" height="50"/></a>
 </p>
 
 <h4>Backend</h4>
